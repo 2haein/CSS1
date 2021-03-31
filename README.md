@@ -1,2 +1,2 @@
-# css
-create_css
+# disqus
+create_disqus
